@@ -71,9 +71,3 @@ Ensure that all GPIO pins are correctly configured in both the hardware setup an
 5. **Run and Monitor:**  
    Open a serial terminal (set to 9600 baud) to view the distance measurements output by the microcontroller.
 
-## Author
-- **Your Name**  
-  *[Your Contact Information]*
-
-## License
-- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
